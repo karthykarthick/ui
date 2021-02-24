@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* brand styling */
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.brand {
+  margin: 4.5% 2.5%; 
+}
+
+/* Nav bar styling */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    padding: 1.3rem;
+}
+
+nav ul a {
+    text-decoration: none;
+    color:  #8a8a8a;
+}
+
+.brand{
+    font-size:2.5rem;
+}
+
+/* Navbr crt button */
+
+button {
+    border-radius: 77px;
+    background-color: #ff4e4e;
+    border-color: #ff4e4e;
+    color: white;
+    padding: 18px 50px 19px 50px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+
+/* title */
+
+.content{
+    display: flex;
+    position: absolute;
+    top: 28%;
+}
+
+.aside-text{
+    
+}
